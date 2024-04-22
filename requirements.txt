@@ -1,0 +1,6 @@
+astropy
+pandas
+pybtex
+pygedm
+numpy
+sqlite3
